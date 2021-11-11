@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome to our slide deck! It is the best slide deck in the world!"
 ---
 
-Caption here
+Спартак -чемпион!
 
 ![octofez](https://octodex.github.com/images/octofez.png)
 {: .center}
