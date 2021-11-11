@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+Спартак -чемпион!
 
 ![octofez](https://octodex.github.com/images/octofez.png)
 {: .center}
